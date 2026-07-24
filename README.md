@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 Досвід розробки & Проєкти
+##  Досвід розробки & Проєкти
 
 *   **[Мої проекти на .NET](https://github.com/MaxFitsak/Homework-C-)** — Десктопний/консольний додатоки на C#/.NET
 *   **[LLM News](https://github.com/MaxFitsak/NewsAgent)** — Скрипт автоматизації для ШІ.
