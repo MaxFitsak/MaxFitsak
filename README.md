@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привіт, я Максим Фіцак 
 
-<!--
-**MaxFitsak/MaxFitsak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .NET / AI Developer Intern
 
-Here are some ideas to get you started:
+Я Junior розробник із досвідом створення програм на C#/.NET та базовими навичками програмування на Python. Зараз активно розвиваюся в сфері розробки штучного інтелекту та побудови автономних AI-агентів. Швидко навчаюся, вмію перемикатися між технологіями та шукаю цікаві завдання.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Технологічний стек & Навички
+
+| Категорія | Технології та інструменти |
+| :--- | :--- |
+| **Мови програмування** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Платформи & Інструменти** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
+| **AI Розробка** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) `Prompt Engineering` `Function Calling` `AI Agents` `JSON Mode` |
+
+---
+
+##  Професійні навички в AI розробці
+
+*   **Проектування AI-агентів:** Розуміння архітектури автономних систем, що працюють на базі LLM (моделей GPT, Gemini).
+*   **Створення інструментів (Tools/Skills):** Розробка Python/C# функцій для інтеграції ШІ з реальним світом (бази даних, сторонні API) за допомогою механізму **Function Calling**.
+*   **Керування логікою та контекстом:** Налаштування суворих `system` промптів, робота в режимі `JSON Mode` для отримання структурованих даних, мінімізація галюцинацій моделей.
+*   **Оптимізація витрат:** Розуміння методів стиснення історії діалогів та очищення тексту для зменшення використання токенів.
+
+---
+
+## Досвід розробки & Проєкти
+
+*   **Десктопні та консольні програми (C#/.NET):** Розробка архітектури та логіки для обробки користувацьких даних.
+*   **Прототипування AI-інструментів (Python):** Створення скриптів, які дозволяють мовним моделям автоматично звертатися до потрібних ячейок баз даних для перевірки статусів замовлень.
+*   **Системи фільтрації контенту:** Написання промптів-валідаторів для автоматичної перевірки тональності відгуків клієнтів (Sentiment Analysis) та блокування нецензурної лексики через ШІ.
+
+---
+
+## 📬 Контакти для зв'язку
+
+*   **Email:** maxfitsak@@gmail.com
+
+---
+
+### ⚡ Трохи про мій вайб
+> «Не боюся змінювати мови програмування, швидко адаптуюся під стек проєкту і люблю змушувати ШІ працювати суворо за правилами розробника!» 
